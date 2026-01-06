@@ -334,24 +334,4 @@ Check email service provider limits
 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-📞 Support
-Documentation: docs.thekao.com
-
-Email Support: support@thekao.com
-
-Community Forum: community.thekao.com
-
-Issue Tracker: GitHub Issues
-
-🙏 Acknowledgments
-Django Framework
-
-Bootstrap Team
-
-All contributors and testers
-
-Open source community
-
-⭐ Star us on GitHub!
-
 Made with ❤️ by TheKao Team
