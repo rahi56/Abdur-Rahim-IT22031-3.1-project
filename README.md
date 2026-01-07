@@ -1,10 +1,10 @@
 TheKao - Super App Platform
 🚀 One Super App for Daily Life - Shopping, Food Delivery, Ride Sharing, Parcel Delivery & More
 
-🌟 Overview
+ Overview
 TheKao is a comprehensive super app platform that integrates multiple daily services into a single, seamless experience. Built with Django, this platform provides users with convenient access to essential services while offering business opportunities for vendors and riders.
 
-✨ Features
+ Features
 🛍️ Multi-Service Platform
 Shopping - Daily essentials from trusted vendors
 
